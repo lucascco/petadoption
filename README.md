@@ -29,7 +29,7 @@ Open source software for management and dissemination of pet adoption.
 * Store - ST
     * Stock / No stock - SN
     * Monitoring - MO
-* Blog - BL
+* Blog - BL (OUT)
 
 
 #### Contributors
